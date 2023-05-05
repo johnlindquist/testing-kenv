@@ -2,3 +2,4 @@
 
 import "@johnlindquist/kit"
 
+await arg("testing kenv")
