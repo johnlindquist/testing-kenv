@@ -1,4 +1,4 @@
 # Install Kenv
 
-[Click to Install](kit://kenv?repo=johnlindquist/testing-kenv)
+<a href="kit://kenv?repo=johnlindquist/testing-kenv">Click to Install</a>
 
